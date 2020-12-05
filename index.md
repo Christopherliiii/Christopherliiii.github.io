@@ -1,3 +1,3 @@
-# Christopher's Coding Learning Blog
+# Christopher's Code Learning Blog
 
 
